@@ -1,3 +1,4 @@
 test and learn the git(hope to learn well)
 pikapikaqiu~
 pika
+there's bug again!(modify the profie gitskills will can't be staged)
